@@ -1,4 +1,4 @@
-# Stock Trading App Tutorial [Part 00] - App Overview.mp4
+# [Stock Trading App Tutorial [Part 00] - App Overview.mp4](https://hackingthemarkets.com/full-stack-trading-app-tutorial-part-01-database-design/)
 # Stock Trading App Tutorial [Part 01] - Database Design.mp4.
 # Stock Trading App Tutorial [Part 02] - SQL CRUD Operations.mp4
 # Stock Trading App Tutorial [Part 03] - Python, SQL, and Stock Universes.mp4
