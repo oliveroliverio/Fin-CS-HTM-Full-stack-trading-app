@@ -14,7 +14,7 @@ df.to_csv('AAPL.csv')
 brew install sqlite
 ```
 - or download the [Mac OS binaries](https://sqlite.org/download.html)
-# Make sqlite DB
+# Make sqlite3 DB
 - this makes the relational database that we'll structure our data in
 
 ```
