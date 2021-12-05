@@ -46,3 +46,5 @@ CREATE TABLE IF NOT EXISTS stock_price (
     FOREIGN KEY (stock_id) REFERENCES stock (id)
 );
 ```
+
+# CRUD operations
